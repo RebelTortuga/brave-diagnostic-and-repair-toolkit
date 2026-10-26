@@ -76,6 +76,18 @@ Use the repository's Issues tab for bugs, cleanup suggestions, additional option
 - Browser version and selected profile path: `brave://version`
 - Settings reset: `brave://settings/reset`
 
+## Frequently asked questions and troubleshooting
+
+**How do I identify my Brave profile?** Open `brave://version` in Brave and compare **Profile Path** with the toolkit dropdown. Then fully close Brave before backup or repair.
+
+**What should I do first?** Run the quick health check, review the findings, and save a category-selected backup before attempting any changes.
+
+**Can I restore saved passwords automatically?** Review the README's **Passwords and privacy** and **Restore behavior** sections before restoring. Browser encryption and account context can affect what is portable.
+
+**The launcher is blocked or opens the wrong version.** Extract the latest ZIP into a new folder, keep the BAT/VBS/PS1 files together, and use the provided BAT launcher. See `RUN-README.md` for download-blocking guidance.
+
+**Does the toolkit change system-wide PowerShell policy?** No. Its documented execution-policy bypass is limited to the launched process.
+
 ## 🔗 Related Free RebelTortuga Projects
 
 Explore other free tools and workflows:
