@@ -76,6 +76,16 @@ Use the repository's Issues tab for bugs, cleanup suggestions, additional option
 - Browser version and selected profile path: `brave://version`
 - Settings reset: `brave://settings/reset`
 
+## 🔗 Related Free RebelTortuga Projects
+
+Explore other free tools and workflows:
+
+- [wow-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/wow-diagnostic-and-repair-toolkit)
+- [firefox-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/firefox-diagnostic-and-repair-toolkit)
+- [shell-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/shell-diagnostic-and-repair-toolkit)
+
+[Browse all RebelTortuga projects](https://github.com/RebelTortuga)
+
 ## 🐢 Support RebelTortuga
 
 All features are free. A donation is never required and does not unlock anything.
