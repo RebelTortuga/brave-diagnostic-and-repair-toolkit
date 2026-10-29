@@ -132,3 +132,7 @@ Do not upload passwords, access tokens, browser profiles, private backups, or un
 - [Patreon](https://www.patreon.com/RebelTortuga)
 - [Ko-fi](https://ko-fi.com/rebeltortuga)
 <!-- rebeltortuga-official-links:end -->
+
+## Official Project Guide
+
+[View the brave-diagnostic-and-repair-toolkit project guide](https://rebeltortuga.github.io/projects/brave-diagnostic-and-repair-toolkit.html)
