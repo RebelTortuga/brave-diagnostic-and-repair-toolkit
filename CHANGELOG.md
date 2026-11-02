@@ -1,4 +1,10 @@
 # Changelog
+## Version 1.0.1 — Trust and documentation refresh
+- Added `SAFETY.md` and `SECURITY.md` to the downloadable package.
+- Updated the operational documentation and synchronized interface screenshot.
+- Updated the displayed toolkit version for this patch package.
+- No backup, diagnostic, restore, or repair logic changed from Version 1.0.0.
+
 ## Version 1.0.0
 - Reordered README menu and detailed guide to match the sidebar; action numbers now run from profile selection through backup, diagnostics and repairs.
 - All READMEs explicitly identify the yellow guide, blue Optional Support and red Exit Toolkit buttons.

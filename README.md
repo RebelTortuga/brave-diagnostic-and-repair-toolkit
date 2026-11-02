@@ -10,7 +10,7 @@
 # Brave Diagnostic and Repair Toolkit
 **Developer:** RebelTortuga  
 **Platform:** Windows 10 / Windows 11  
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Cost:** Free to use. No payment is required.
 
 A Brave companion to the WoW Diagnostic and Repair Toolkit and Firefox Diagnostic and Repair Toolkit, with section navigation, diagnostics, category-selectable backup and restore, recovery copies, saved logs and detailed help. Independent utility; not affiliated with Brave Software.
