@@ -17,7 +17,7 @@ A Brave companion to the WoW Diagnostic and Repair Toolkit and Firefox Diagnosti
 
 ## Screenshot
 
-![Brave Diagnostic and Repair Toolkit main window, with local paths redacted](assets/screenshot.png)
+![Brave Diagnostic and Repair Toolkit main window with profile selector, diagnostic controls, and results panel](assets/screenshot.png)
 
 ## Start here
 1. Extract **all files** into a new folder.
